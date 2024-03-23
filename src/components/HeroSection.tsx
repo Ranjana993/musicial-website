@@ -20,7 +20,7 @@ export function HeroSection() {
           section of the page. I don&apos;t know why but I&apos;m running out of
           copy.
         </p>
-        <div className="mt-4 flex justify-center items-center">
+        <div className="mt-12 flex justify-center items-center">
           <Link href={"/courses"}>
             <Button
               borderRadius="1.75rem"

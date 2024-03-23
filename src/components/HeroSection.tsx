@@ -5,7 +5,7 @@ import { Button } from "./ui/moving-border";
 
 export function HeroSection() {
   return (
-    <div className="h-[60rem] w-full rounded-md flex md:items-center md:justify-center py-[2rem] lg:py-0 bg-black/[0.96] antialiased bg-grid-white/[0.02] relative overflow-hidden">
+    <div className="h-[50rem] w-full rounded-md flex md:items-center md:justify-center py-[2rem] lg:py-0 bg-black/[0.96] antialiased bg-grid-white/[0.02] relative overflow-hidden">
       <Spotlight
         className="-top-60 left-0 md:left-60 md:-top-20"
         fill="white"

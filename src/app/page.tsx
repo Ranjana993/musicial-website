@@ -11,11 +11,7 @@ export default function Home() {
     <HeroSection />
       <CardHoverEffectDemo/>
       <WhyChooseUs />
-      <div>
-        
         <Testimonial />
-      </div>
-     
     </>
   );
 }

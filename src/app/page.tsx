@@ -3,7 +3,7 @@ import { HeroSection } from "@/components/HeroSection";
 import { Testimonial } from "@/components/Testimonial";
 import UpcomingWbinar from "@/components/UpcomingWbinar";
 import { WhyChooseUs } from "@/components/WhyChooseUs";
-// import { WhyChooseUs } from "@/components/WhyChooseUs";
+import { SparklesPreview } from "@/components/sparkles";
 
 
 export default function Home() {
@@ -13,7 +13,8 @@ export default function Home() {
       <CardHoverEffectDemo />
       <WhyChooseUs />
       <Testimonial />
-      <UpcomingWbinar/>
+      <UpcomingWbinar />
+      <SparklesPreview />
     </>
   );
 }
